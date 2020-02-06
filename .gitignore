@@ -1,0 +1,19 @@
+node_modules
+/yarn.lock
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tags
+.tmproj
+nbproject
+Thumbs.db
+tags
+*.sublime-project
+*.sublime-workspace
+
+# built code
+/dist
+/dist-test
